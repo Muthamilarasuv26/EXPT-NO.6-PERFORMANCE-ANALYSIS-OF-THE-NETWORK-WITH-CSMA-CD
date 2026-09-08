@@ -82,7 +82,7 @@ $ns run
  
 # OUTPUT
 
-<img width="1258" height="865" alt="image" src="https://github.com/user-attachments/assets/66bf4482-f31d-412a-8bcc-060f365ec66b" />
+<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/081370e7-ccdd-4cdf-99f6-c2b6eda48b89" />
 
 
 
